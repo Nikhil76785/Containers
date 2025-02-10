@@ -1,0 +1,40 @@
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+    </head>
+
+    <body>
+        <div class="container bg-success text-white">
+            <h1>Emotions</h1>
+            <p>Emotions are what people feel. They are very ancient, and can be seen in all mammals.<br><br>
+            
+            Emotions are caused by a complex mixture of hormones and the unconscious mind. Only with great difficulty can we control
+            our emotions by conscious effort. They cause mammals to change behaviour according to changes in their situation. In our
+            case, they sometimes run against our attempt to live our lives in a logical way.<br><br>
+            
+            A scientific definition is not simple; over 90 definitions have been offered by experts. A definition of emotion
+            needs to include three things:<br><br>
+            
+            =>     conscious experience (feelings)<br>
+            => expressions which can be seen by others<br>
+            => actions of the body ('physiological arousal')<br><br>
+            Here is one definition:<br>
+            
+            "Emotion is a complex psychological phenomenon which occurs as animals or people live their lives. Emotions involve
+            physiological arousal, appraisal of the situation, expressive behaviours, and conscious experience. Emotion is
+            associated with feeling, mood, temperament, personality, disposition, and motivation".<br><br>
+            In physical terms, emotions involve body systems which have operated for hundreds of millions of years. These are the
+            hormone system, the autonomic nervous system and the 'lower' brain centers (hindbrain and midbrain).<br><br><br></p>
+
+        </div>
+    </body>
+</html>
