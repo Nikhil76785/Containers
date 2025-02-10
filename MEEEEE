@@ -1,0 +1,48 @@
+<html>
+    <head>
+
+        <title>My Hobbies</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+    </head>
+
+    <body>
+        <div class="container-fluid bg-primary text-white">
+            <h1>My Hobbies</h1>
+            <p>I am Nikhil! I live in Hyderabad and am studying in 7th class</p>
+        </div>
+
+        <div class="container-fluid bg-danger text-white">
+            <h1>I love playing piano!</h1>
+            <p>I have been playing piano since 2019! I've become very good at it and I am in Trinity Piano Grade 6!</p>
+            <img src="P1.jpg"><img src="P2.jpg">
+        </div>
+
+        <div class="container-fluid bg-danger text-white">
+            <h1>I love playing guitar!</h1>
+            <p>I have been playing guitar since an year! I've become very good at it and I am in Trinity guitar Grade 2!</p>
+            <img src="G1.jpg" width="550px"><img src="G2.jpg" width="550px">
+        </div>
+
+        <div class="container-fluid bg-danger text-white">
+            <h1>I love playing table tennis!</h1>
+            <p>I have been playing table tennis since a long time! I've become very good at it!</p>
+            <img src="TT1.jpg" width="550px"><img src="TT2.jpg" width="550px">
+        </div>
+
+        <div class="container-fluid bg-danger text-white">
+            <h1>I love cycling!</h1>
+            <p>I juust love cycling!! It is just a great hobby!</p>
+            <img src="C1.jpg" width="550px"><img src="C2.jpg" width="550px">
+        </div>
+    </body>
+
+</html>
